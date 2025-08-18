@@ -1,0 +1,1 @@
+Code for simulating the airflow and streamlines around a NACA 4th series airfoil of user choice. Images will be plot and saved. Valid input includes a 4 digit number, and a panel size < 500 as the larger the panel number is, the longer the execution time is with little to no added accuracy.
